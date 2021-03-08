@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 60px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid orangered;
+}
+.NavLink {
+  font-size: 24px;
+  color: black;
+  text-decoration: none;
+}
+.NavLink__active {
+  color: orangered;
+}

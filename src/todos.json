@@ -1,0 +1,56 @@
+[
+    {
+      "id": "id-1",
+      "сategory": "rest",
+      "text": "qqqqqqq",
+      "completed": true
+    },
+    {
+      "id": "id-2",
+      "сategory": "work",
+      "text": "wwwwwww",
+      "completed": false
+    },
+    {
+      "id": "id-3",
+      "сategory": "home",
+      "text": "eeeeeee",
+      "completed": false
+    },
+    {
+      "id": "id-4",
+      "сategory": "rest",
+      "text": "rrrrrrr",
+      "completed": true
+    },
+    {
+      "id": "id-5",
+      "сategory": "work",
+      "text": "ttttttt",
+      "completed": false
+    },
+    {
+      "id": "id-6",
+      "сategory": "home",
+      "text": "yyyyyyy",
+      "completed": false
+    },
+    {
+      "id": "id-7",
+      "сategory": "rest",
+      "text": "uuuuuuu",
+      "completed": false
+    },
+    {
+      "id": "id-8",
+      "сategory": "work",
+      "text": "iiiiiii",
+      "completed": true
+    },
+    {
+      "id": "id-9",
+      "сategory": "home",
+      "text": "ooooooo",
+      "completed": true
+    }
+  ]

@@ -1,0 +1,22 @@
+.form {
+  display: block;
+}
+.form__input {
+  width: 100%;
+  height: 30px;
+  margin-bottom: 20px;
+}
+.form__textarea {
+  width: 100%;
+  min-height: 150px;
+  margin-bottom: 20px;
+}
+.form__btns {
+  display: flex;
+  justify-content: center;
+}
+.button_form {
+  width: 100px;
+  padding: auto;
+  margin-right: 10px;
+}
